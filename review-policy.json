@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "revision": 7,
-  "updated_at": "2026-10-02T20:34:22.140Z",
+  "revision": 8,
+  "updated_at": "2026-10-02T20:41:11.211Z",
   "updated_by": "wirelesspatrick@gmail.com",
   "defaults": {
     "jeongyeon": "on",
@@ -26,7 +26,8 @@
       "jeongyeon_runner": "codex-cloud"
     },
     "patjab/boracaya-valet": {
-      "jeongyeon": "off"
+      "jeongyeon": "on",
+      "jeongyeon_runner": "codex-cloud"
     },
     "patjab/boracaya-cdk": {
       "jeongyeon": "on",
