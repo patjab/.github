@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "revision": 8,
-  "updated_at": "2026-10-02T20:41:11.211Z",
+  "revision": 9,
+  "updated_at": "2026-10-02T20:51:06.478Z",
   "updated_by": "wirelesspatrick@gmail.com",
   "defaults": {
     "jeongyeon": "on",
     "jeongyeon_runner": "desktop",
-    "record_check": "report",
+    "record_check": "block",
     "max_exchanges": 2,
     "round_timeout_minutes": 30,
     "reviewer": {
