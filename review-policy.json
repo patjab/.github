@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "revision": 2,
-  "updated_at": "2026-10-01T22:52:57.651Z",
+  "revision": 5,
+  "updated_at": "2026-10-02T15:13:38.666Z",
   "updated_by": "wirelesspatrick@gmail.com",
   "defaults": {
     "jeongyeon": "on",
@@ -22,6 +22,18 @@
   },
   "repos": {
     "patjab/boracaya-e2e": {
+      "jeongyeon": "on",
+      "jeongyeon_runner": "codex-cloud"
+    },
+    "patjab/boracaya-valet": {
+      "jeongyeon": "on",
+      "jeongyeon_runner": "codex-cloud"
+    },
+    "patjab/boracaya-cdk": {
+      "jeongyeon": "on",
+      "jeongyeon_runner": "codex-cloud"
+    },
+    "patjab/boracaya-shore": {
       "jeongyeon": "on",
       "jeongyeon_runner": "codex-cloud"
     }
